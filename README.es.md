@@ -13,8 +13,6 @@
 > ¡Te necesitamos! Estos ejercicios se crean y mantienen en colaboración con personas como tú. Si encuentras algún error o falta de ortografía, contribuye y/o repórtalo.
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 ¿Cómo empezar este proyecto?
 
 En esta práctica, aprenderemos a utilizar Nmap, una herramienta de código abierto ampliamente reconocida para el análisis de redes y la seguridad. Con Nmap llevaremos a cabo escaneos en una máquina objetivo (en este caso, una máquina con Debian) desde una máquina con Kali Linux. 
@@ -25,8 +23,6 @@ Identificaremos hosts activos, puertos abiertos en la red y qué servicios está
 
 * Máquina virtual con Kali Linux (Maquina para scanear)
 * Máquina virtual con Debian (Maquina objetivo): Realizaremos escaneos en esta máquina para identificar puertos abiertos, servicios activos y posibles vulnerabilidades.
-
-</onlyfor>
 
 ## 📝 Instrucciones
 
