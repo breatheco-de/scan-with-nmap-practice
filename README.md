@@ -14,8 +14,6 @@
 
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 How to start a project?
 
 In this practice, we will learn how to use Nmap, a widely recognized open-source tool for network analysis and security. With Nmap, we will perform scans on a target machine (in this case, a Debian machine) from a Kali Linux machine.
@@ -25,8 +23,6 @@ We will identify active hosts, open ports on the network, and which services are
 ### Requirements
 * Virtual machine with Kali Linux (Scannig machine)
 * Virtual machine with Debian (Target machine)
-
-</onlyfor>
 
 ## 📝 Instructions
 
